@@ -3,7 +3,7 @@ I am an upper year Electrical Engineering and Computing Technology Student at UO
 
 > ### Character Design Hobbist by Morning
 
-> ### Aspiring Full Stack Developer by Afternoon
+> ### Aspiring Software Developer by Afternoon
 
 > ### Enthusiast Electrical Engineering by Night
 
