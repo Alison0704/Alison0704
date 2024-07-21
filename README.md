@@ -5,7 +5,7 @@ I am an upper year Electrical Engineering and Computing Technology Student at UO
 
 > ### Aspiring Software Developer by Afternoon
 
-> ### Enthusiast Electrical Engineering by Night
+> ### Enthusiast Electrical Engineer by Night
 
 ---
 Art and Projects portfolio Website: [Alitronic.tech](https://alitronics.tech)
