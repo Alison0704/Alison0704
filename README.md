@@ -27,11 +27,6 @@ Welcome to my GitHub profile! I’m passionate about creating robust and efficie
 
 ---
 
-## 🤝 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/alison-emilien/)  
-
----
-
 💡 “Technology is best when it brings people together.” – [Matt Mullenweg](https://ma.tt/)  
 
 Feel free to explore my repositories and connect! 😊  
