@@ -1,6 +1,7 @@
 # Hi, I'm Alison Emilien 👋  
 
 Welcome to my GitHub profile! I’m passionate about creating robust and efficient hardware systems. My focus lies in **System Verification**, ensuring designs are functional, reliable, and optimized for real-world applications.  
+My website: https://alistrics.netlify.app/
 
 ---
 
