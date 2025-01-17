@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I’m passionate about creating robust and efficient hardware systems. My focus lies in **System Verification**, ensuring designs are functional, reliable, and optimized for real-world applications.  
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ddf5e6b0-d312-4309-ab7d-8fd1d413df84/deploy-status)](https://app.netlify.com/sites/alistrics/deploys)
-My website: https://alistrics.netlify.app/
 
 ---
 
