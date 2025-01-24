@@ -15,16 +15,10 @@ Welcome to my GitHub profile! I’m passionate about creating robust and efficie
 
 ## 🛠️ Skills  
 - **System Verification**: UVM, SystemVerilog, Coverage Analysis  
-- **Hardware Design**: VHDL, Verilog, FPGA Design, PCB Design (Allegro PCB Designer)  
+- **Hardware Design**: VHDL, Verilog, FPGA Design, PCB Design
 - **Programming**: Python, C++, Shell Scripting  
-- **Tools**: Cadence Allegro, ModelSim, QuestaSim, Vivado, Git  
+- **Tools**: Cadence, ModelSim, Quartus II, Git  
 - **Soft Skills**: Analytical Thinking, Collaboration, Problem-Solving  
-
----
-
-## 🚀 What I'm Learning  
-- **Current Focus**: Allegro PCB Design, Advanced UVM Techniques, and exploring cybersecurity in hardware.  
-- Always eager to dive into new tools and technologies.  
 
 ---
 
