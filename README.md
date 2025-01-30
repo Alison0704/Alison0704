@@ -8,15 +8,15 @@ Welcome to my GitHub profile! I’m passionate about creating robust and efficie
 ## 🌟 About Me  
 - 🎓 **Education**: University of Ottawa
 - 💼 **Current Role**: Student in BASc Electrical Engineering and BSc Computing Technology
-- 🎯 **Interests**: System Verification, Hardware Design, ASIC, FPGA, and Cybersecurity  
+- 🎯 **Interests**: System Verification, Hardware Design, ASIC and FPGA.
 - 🌍 **Languages**: Near-fluent in English and French; exploring Japanese
 
 ---
 
 ## 🛠️ Skills  
 - **System Verification**: UVM, SystemVerilog, Coverage Analysis  
-- **Hardware Design**: VHDL, Verilog, FPGA Design, PCB Design
-- **Programming**: Python, C++, Shell Scripting  
+- **Hardware Design**: VHDL, Verilog, SystemVerilog.
+- **Programming**: Python, C/C++, Shell Scripting  
 - **Tools**: Cadence, ModelSim, Quartus II, Git  
 - **Soft Skills**: Analytical Thinking, Collaboration, Problem-Solving  
 
