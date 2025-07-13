@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile! I’m passionate about creating robust and efficient hardware systems. My focus lies in **System Verification**, ensuring designs are functional, reliable, and optimized for real-world applications.  
 Personal Website Portfolio: https://aliemi.com/<br>
-Game jams - itch.io profile: https://alistrics.itch.io/
+Game jams - itch.io profile: https://alistrics.itch.io/ <br>
+Instagram Profile: https://www.instagram.com/sketchesbyannaelle/
 
 ---
 
