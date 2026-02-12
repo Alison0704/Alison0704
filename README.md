@@ -11,7 +11,7 @@ Instagram Profile: https://www.instagram.com/sketchesbyannaelle/
 - 🎓 **Education**: University of Ottawa
 - 💼 **Current Role**: Student in BASc Electrical Engineering and BSc Computing Technology
 - 🎯 **Interests**: System Verification, Hardware Design, ASIC and FPGA.
-- 🌍 **Languages**: Near-fluent in English and French; exploring German
+- 🌍 **Languages**: Near-fluent in English and French
 
 ---
 
