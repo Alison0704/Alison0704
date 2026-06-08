@@ -1,6 +1,9 @@
 # Hi, I'm Alison Emilien 👋  
 
-Welcome to my GitHub profile! I’m passionate about creating robust and efficient hardware systems. My focus lies in **System Verification**, ensuring designs are functional, reliable, and optimized for real-world applications.  
+Welcome to my GitHub profile! <br>
+My interest lies between software and hardware, more specifically ASIC Design.
+My side projects will showcase skills ranging from Hardware verification and Hardware design to hobbist level Game Design.
+
 Personal Website Portfolio: [https://aliemi.dev/](https://www.aliemi.dev/)<br>
 Game jams - itch.io profile: https://alistrics.itch.io/ <br>
 Instagram Profile: https://www.instagram.com/sketchesbyannaelle/
@@ -18,13 +21,10 @@ Instagram Profile: https://www.instagram.com/sketchesbyannaelle/
 ## 🛠️ Skills  
 - **System Verification**: UVM, SystemVerilog, Coverage Analysis  
 - **Hardware Design**: VHDL, Verilog, SystemVerilog.
-- **Programming**: Python, C/C++, Shell Scripting  
-- **Tools**: Cadence, ModelSim, Quartus II, Git  
-- **Soft Skills**: Analytical Thinking, Collaboration, Problem-Solving  
-
+- **Programming**: Python, C/C++, Shell Scripting.  
+- **Tools**: Cadence, ModelSim, Quartus II, Git.
+- 
 ---
-
-💡 “Technology is best when it brings people together.” – [Matt Mullenweg](https://ma.tt/)  
 
 Feel free to explore my repositories and connect! 😊  
 
