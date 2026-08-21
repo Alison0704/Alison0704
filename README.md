@@ -1,8 +1,8 @@
 # Hi, I'm Alison Emilien 👋  
 
 Welcome to my GitHub profile! <br>
-My interest lies between software and hardware, more specifically ASIC Design.
-My side projects will showcase skills ranging from Hardware verification and Hardware design to hobbist level Game Design.
+University of Ottawa graduate with a BASc in Electrical Engineering and a BSc in Computing Technology. Skilled in Python, C/C++, C#, JavaScript, Linux, testing, and debugging, with project experience in web development, automation, AI, and embedded systems. My experience as a teaching assistant for C programming and digital systems strengthened my curiosity and ability to explain technical concepts to first-year students. I also worked as a Pension and Benefits Assistant, gaining valuable insight into human resources and the university’s pension system.
+
 
 Personal Website Portfolio: [https://aliemi.dev/](https://www.aliemi.dev/)<br>
 Game jams - itch.io profile: https://alistrics.itch.io/ <br>
